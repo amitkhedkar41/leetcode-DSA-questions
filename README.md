@@ -1,4 +1,7 @@
 # `Daily LeetCode Solutions`
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1021189063262351390/1085890164095721542/GeekyAmit_animated_programmer_with_two_monitor_setup__realistic_8367bbd0-cd28-43c9-a56f-a61005dae2a9.png" width="350" title="hover text">
+</p>
 This repository contains my daily solutions to LeetCode problems. I started this project to track my progress and improve my coding skills.
 
 ### `Table of Contents`
