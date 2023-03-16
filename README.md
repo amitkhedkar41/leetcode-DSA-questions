@@ -5,10 +5,11 @@
 This repository contains my daily solutions to LeetCode problems. I started this project to track my progress and improve my coding skills.
 
 ### `Table of Contents`
-Solutions
-Notes
-Resources
-
+<li>
+<ul>Solutions</ul>
+<ul>Notes</ul>
+<ul>Resources</ul>
+</li>
 ### `Motivation`
 I have always been interested in improving my coding skills and solving LeetCode problems seemed like a great way to do so. By committing to solving at least one problem every day, I hope to improve my problem-solving skills and gain a deeper understanding of algorithms and data structures.
 
